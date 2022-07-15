@@ -2,7 +2,15 @@
 
 canTot is a python-based cli framework based on sploitkit and is easy to use because it similar to working with Metasploit. This similar to an exploit framework but focused on known CAN Bus vulnerabilities or fun CAN Bus hacks. It can also be used as a guide for pentesting vehicles and learning python for Car Hacking the easier way. This is not to reinvent the wheel of known CAN fuzzers, car exploration tools like caring caribou, or other great CAN analyzers out there. But to combine all the known vulnerabilities and fun CAN bus hacks in automotive security.
 
-Sample framework usage:
+# Installation
+
+```
+git clone https://github.com/shipcod3/canTot
+cd canTot
+pip3 install -r requirements.txt
+```
+
+# Sample framework usage:
 
 ```
 ─$ python3 main.py 
