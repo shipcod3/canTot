@@ -98,3 +98,4 @@ Jay Turla
 - Car Hacking Village
 - Eric Evenchick for pyvit
 - Alexandre D'Hondt for sploitkit
+- Will Caruana for canfuzz_sids.py inspiration.
