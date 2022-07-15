@@ -1,0 +1,13 @@
+https://www.slideshare.net/codeblue_jp/chris-valasek-enpub/35-SecurityAccess_Ford_PAM_doesnt_send
+
+https://ioactive.com/pdfs/IOActive_Adventures_in_Automotive_Networks_and_Control_Units.pdf
+
+http://www.illmatics.com/Remote%20Car%20Hacking.pdf
+
+https://github.com/mintynet
+
+https://www.blackhat.com/docs/eu-16/materials/eu-16-Sintsov-Pen-Testing-Vehicles-With-Cantoolz.pdf
+
+https://github.com/will-caruana/CHVpi
+
+https://www.carhackingvillage.com/getting-started
