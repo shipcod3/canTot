@@ -98,4 +98,5 @@ Jay Turla
 - Car Hacking Village
 - Eric Evenchick for pyvit
 - Alexandre D'Hondt for sploitkit
-- Will Caruana for canfuzz_sids.py inspiration.
+- Will Caruana for canfuzz_sids.py inspiration
+- Craig Smith for the Car Hacker's Handbook and hwbridge inspiration
