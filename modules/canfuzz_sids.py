@@ -5,7 +5,7 @@ class canfuzz_sids(Module):
     """ This module will fuzz SIDs on the CAN Bus.
 
     Author:  shipcod3 # canTot module
-    Credits: will-caruana [https://github.com/will-caruana/CHVpi]
+    Credits: carfucar and will-caruana [https://github.com/will-caruana/CHVpi]
     Version: 1.0
     """
     config = Config({
