@@ -9,6 +9,7 @@ git clone https://github.com/shipcod3/canTot
 cd canTot
 pip3 install -r requirements.txt
 ```
+Note: Works better with Kali and Ubuntu
 
 # Sample framework usage:
 
