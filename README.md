@@ -102,3 +102,4 @@ Jay Turla
 - carfucar for canfuzz_sids.py inspiration
 - Craig Smith for the Car Hacker's Handbook and hwbridge inspiration
 - ps1337's udsSecAccess.py for scanning UDS services using Security Access
+- Keen Security Lab of Tencent for their Tesla hacks
