@@ -69,4 +69,4 @@ class uds_sec_access(Module):
                     dev.send(packet)
                     sleep(0.1)
                 else:
-                    print("damaged packet")
+                    print("[-] Damaged packet!")
