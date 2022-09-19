@@ -89,6 +89,9 @@ Press Ctrl+C to stop or cancel
 ## Author
 Jay Turla
 
+## If you love canTot you can buy me a coffee to support this project :)
+ <a href="https://www.buymeacoffee.com/shipcod3" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+
 ## Contributors
 - To be updated
 
