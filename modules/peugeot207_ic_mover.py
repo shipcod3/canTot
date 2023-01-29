@@ -23,6 +23,6 @@ class peugeot207_ic_mover(Module):
         dev.start()
         print("[*] Moving the speedometer and accelorometer...")
         frame = can.Frame(0x0B6)
-        frame.data = [0x99,0x00,0x60,0,0,0,0,0]
+        frame.data = [0x199,0x00,0x160,0x00,0x00,0x00,0x00,0x00]
         dev.send(frame)
         pass
