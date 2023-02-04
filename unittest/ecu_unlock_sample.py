@@ -1,3 +1,4 @@
+# this module was made by ChatGPT after teaching it how to dev canTot
 import can
 from pyvit import can
 from pyvit.hw import socketcan
