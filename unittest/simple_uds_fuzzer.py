@@ -1,3 +1,5 @@
+# a simple UDS fuzzer made by ChatGPT
+
 import can
 
 # Create a bus instance
