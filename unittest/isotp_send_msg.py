@@ -1,3 +1,4 @@
+# this module was made by ChatGPT after asking it how to write an isotp in python
 import can
 from can.interfaces.interface import Bus
 from can.protocols import isotp
