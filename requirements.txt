@@ -3,3 +3,4 @@ pyvit
 python-can
 can-isotp
 udsoncan
+tinyscript>=1.24.14
