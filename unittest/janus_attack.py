@@ -5,6 +5,7 @@
 # is known as a "Janus attack" because it has two faces, where the attacker sends messages 
 # with two different payloads but the same message ID.
 
+# credits to Dr. Ken Tindell for discovering this attack
 import can
 
 # Define the CAN bus interface
