@@ -93,7 +93,7 @@ Jay Turla
  <a href="https://www.buymeacoffee.com/shipcod3" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
 ## Contributors
-- To be updated
+- superuserx
 
 ## Credits
 - Nikhil Bogam for CVE-2022-26269 and allowing me to port his findings.
@@ -106,3 +106,4 @@ Jay Turla
 - Craig Smith for the Car Hacker's Handbook and hwbridge inspiration
 - ps1337's udsSecAccess.py for scanning UDS services using Security Access
 - Keen Security Lab of Tencent for their Tesla hacks
+- superuserx's fix on logical flaw for uds_sec_access.py
