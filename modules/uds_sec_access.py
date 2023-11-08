@@ -53,12 +53,9 @@ class uds_sec_access(Module):
 
         dev = init()
 
-        for x in range(255):
-            for i in range(255):
-                hexData = "0327" + hex(i).replace("0x", "") + "0" + hex(x).replace(
-                    "0x", "")
-                while len(hexData) < 16:
-                    hexData += "0"
+        for i in range(0xff+1):
+            for j in range(0xff+1):
+                hexData = "0327" + '{:02x}'.format(j) + '{:02x}'.format(i) + "00"*4
                 arbit_to_fuzz = hex(self.config.option('ARBID').value)
                 retVal = tryBuildPacket((arbit_to_fuzz, hexData))
                 packet_ok = retVal[0]
